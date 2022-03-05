@@ -8,9 +8,9 @@ Copy Server folder is added as copy of server code for reference which is not in
 
 https://danrosenportfolio.netlify.app/
 
-![header](src/demo1.png)
-![about](src/demo2.png)
-![work](src/demo3.png)
-![skills](src/demo4.png)
-![testimonials](src/demo5.png)
-![contact](src/demo6.png)
+![header](src/demo/demo1.png)
+![about](src/demo/demo2.png)
+![work](src/demo/demo3.png)
+![skills](src/demo/demo4.png)
+![testimonials](src/demo/demo5.png)
+![contact](src/demo/demo6.png)
